@@ -1,0 +1,33 @@
+{
+  "name": "multiple",
+  "@context": "https://w3id.org/codemeta/3.0",
+  "author": [
+    {
+      "affiliation": {
+        "name": "FAIR Data Innovations Hub",
+        "type": "Organization"
+      },
+      "email": "wheresdorian@gmail.com",
+      "familyName": "Portillo",
+      "id": "_:author_1",
+      "givenName": "Dorian",
+      "type": "Person"
+    }
+  ],
+  "codeRepository": "https://github.com/minecraft-plush/multiple",
+  "dateCreated": "2024-08-06",
+  "description": "asdfasdfas",
+  "issueTracker": "https://github.com/minecraft-plush/multiple/issues",
+  "keywords": [
+    "ewwewer"
+  ],
+  "license": "https://spdx.org/licenses/MIT",
+  "operatingSystem": [],
+  "programmingLanguage": [
+    "Common Workflow Language"
+  ],
+  "relatedLink": [],
+  "runtimePlatform": [],
+  "softwareRequirements": [],
+  "type": "SoftwareSourceCode"
+}
